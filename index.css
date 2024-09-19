@@ -1,0 +1,122 @@
+*{margin: 0;
+ padding: 0;
+ box-sizing: border-box;}
+ 
+
+
+ body{background-image: url(img/pngtree-every-kind-of-fruit-series-of-animal-crossing-picture-image_1657540.jpg);
+    background-size: cover
+}
+ 
+    
+
+
+.logo img{width: 100px;
+      height: 100 px;
+    margin-left: 100px;
+    margin-top: 5px;}
+
+
+
+
+#header{width: 2000px;
+        height: 100px;
+    background-color: rgb(235, 154, 154);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.menu a{color: white;
+        text-decoration:none;}
+
+
+.menu ul{font-size: 20px;
+         list-style-type: none;
+         padding: 0;
+         margin: 0;
+        position: relative;;}
+
+        .menu li{
+            margin-right: 50px;
+            margin-top: 40px;
+            text-transform: uppercase;
+            display: inline-block;
+            font-weight: bolder;
+        }
+
+
+        #container{ text-align: center;
+            position: relative;  
+
+
+
+        }
+        .logo-meio{margin-top: 200px;}
+
+
+
+        .titulo-meio{font-family:Roboto;
+                    font-weight: normal;
+                    font-style: normal;}
+
+
+
+       .descrição{ padding: 40px 0;
+                  background: rgb(235, 154, 154);
+ } 
+       .titulo-desc{font-size: 30px;
+                   font-weight: 400;
+                   padding-top: 20px;
+                   padding-bottom: 20px;
+                
+       }
+       .center{display:flex;
+                justify-content: center;
+                }
+       .Box{width: 33.33%;
+           border:solid white;
+            margin: 10px;
+            padding: 30px;
+        text-align: center;
+        font-size: 25px;}
+
+        .rodapé{background:rgb(247, 5, 5);
+                padding: 15px 0;
+            margin-top: 40px;}
+
+        .rodapé p{color: white;
+                 text-align: center;
+                font-weight: 400;
+                font-size: 16px;}
+
+       .descr2{ padding: 40px 0;
+                text-align: center;}
+
+        .box1{width: 33.33%;
+            border:solid;
+            border-color: black;
+             margin: 10px;
+             padding: 30px;
+          text-align: center;
+         font-size: 15px;}
+
+         .Fast{font-size: 30px;
+            font-weight: 400;
+            padding-top: 20px;
+            padding-bottom: 20px;}
+
+          .forma{  background-color: #fff; 
+            padding: 50px;
+            border-radius: 10px; 
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px; 
+            margin-top: 100px;
+        }  
+       
+
+
+
+       
+     
